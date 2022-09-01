@@ -17,6 +17,12 @@
       "day": "Aug 29 at 09:00am",
       "reminder": true,
       "id": 3
+    },
+    {
+      "text": "Go Grocery Shopping",
+      "day": "Sep 2nd at 06:00pm",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
